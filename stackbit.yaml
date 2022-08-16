@@ -23,6 +23,8 @@ import:
 
 styleObjectModelName: ThemeStyle
 
+minimal-nextjs-theme
+
 modelsSource:
   type: contentful
 

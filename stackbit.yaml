@@ -26,8 +26,7 @@ styleObjectModelName: ThemeStyle
 presetSource:
   type: files
   presetDirs:
-		- node_modules/some-package/.stackbit/presets
-minimal-nextjs-theme
+		- node_modules/minimal-nextjs-theme/.stackbit/presets
 
 modelsSource:
   type: contentful

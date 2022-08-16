@@ -29,7 +29,8 @@
         "sourcebit-source-contentful": "^0.6.7",
         "sourcebit-source-filesystem": "^0.1.6",
         "sourcebit-target-next": "^0.7.1",
-        "tailwindcss": "^2.2.4"
+        "tailwindcss": "^2.2.4",
+        "": "https://github.com/rodik-dev/staging-minimal-publish-954bb"
     },
     "devDependencies": {
         "@next/bundle-analyzer": "^11.1.2",

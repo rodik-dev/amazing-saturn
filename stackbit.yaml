@@ -23,6 +23,10 @@ import:
 
 styleObjectModelName: ThemeStyle
 
+presetSource:
+  type: files
+  presetDirs:
+		- node_modules/some-package/.stackbit/presets
 minimal-nextjs-theme
 
 modelsSource:
